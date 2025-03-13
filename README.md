@@ -1,6 +1,7 @@
 ## Hi there 👋
 <!--
-I'm Liasu Suliat Adedeji , a nigerian based in Cote d'Ivoire , i look toward having great experience here.
+I'm Liasu Suliat Adedeji , a nigerian based in Cote d'Ivoire ,i am currently learning data analysis,
+i look toward having great experience here.
 
 - 🔭 I’m currently working on the analysis on the purchase of bike 
 - 🌱 I’m currently learning microsoft excel
