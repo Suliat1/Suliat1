@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--
+
 I'm Liasu Suliat Adedeji , a nigerian based in Cote d'Ivoire ,i am currently learning data analysis,
 i look toward having great experience here.
 
@@ -11,4 +11,3 @@ i look toward having great experience here.
 - 📫 How to reach me: +225 0576781057/ http://linkedin.com/in/liasu-suliat-42b034188
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Data si world/ World is data
--->
