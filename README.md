@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 I'm Liasu Suliat Adedeji , a nigerian based in Cote d'Ivoire , i look toward having great experience here.
 
